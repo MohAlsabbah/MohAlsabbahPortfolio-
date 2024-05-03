@@ -1,4 +1,4 @@
-# MohAlsabbahProtfolio
+# MohAlsabbahPortfolio 
 This is my protfolio repo
 <h1>Hello Everyone</h1>
 
